@@ -1,3 +1,7 @@
+/*
+Ceci est la classe Mario pour gérer le personnage principal.
+*/
+
 class Mario {
 
   constructor() {
