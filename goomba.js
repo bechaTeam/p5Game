@@ -1,3 +1,7 @@
+/*
+Ajout commentaire à la classe Goomba
+*/
+
 class Goomba {
 
 
