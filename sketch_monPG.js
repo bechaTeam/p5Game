@@ -1,6 +1,3 @@
-
-
-
 var grid = [];
 var monTableauDeGoomba =[];
 var mario;
